@@ -1,5 +1,7 @@
 # Máquina Vulnerable — Temática F1
 
+![Portada](docs/portada.png)
+
 Proyecto de Electivo Hacking Ético y Pentesting Aplicado - Universidad del Bío-Bío.
 
 ## Descripción
