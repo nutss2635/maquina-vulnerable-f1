@@ -91,7 +91,7 @@ maquina-vulnerable-f1/
 7. Mensaje XOR -> revisa access_backup.log -> decodifica base64    [ANALISIS FORENSE]
 8. strings + objdump -> detecta NOT -> prueba clave MAX1RED33       [INGENIERIA INVERSA]
 9. /opt/backup_paddock.sh con permisos 777 + cron como root
-   -> shell de root -> root.txt                                     [ESCALADA PRIVILEGIOS]
+     -> shell de root -> root.txt                                     [ESCALADA PRIVILEGIOS]
 ```
 
 ## Contraseñas y claves (referencia rápida)
@@ -105,3 +105,4 @@ maquina-vulnerable-f1/
 ## Autores
 
 [Benjamín Ibáñez] / [Catalina Muñoz] — Universidad del Bío-Bío
+
