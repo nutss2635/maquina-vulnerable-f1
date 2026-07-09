@@ -1,0 +1,5 @@
+FACTURA N 00231
+Taller Mecanico El Rapido
+Cambio de pastillas de freno .......... $45.000
+Alineacion y balanceo ................. $30.000
+TOTAL ................................. $75.000

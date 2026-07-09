@@ -1,0 +1,5 @@
+ls
+cd Documents
+cat lista_compras.txt
+ping google.com
+exit
