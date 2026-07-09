@@ -42,7 +42,7 @@ docker run -d -p 2222:22 -p 8080:80 --name vulnerable-f1 maquina-vulnerable-f1
 - Puerto 22 del contenedor -> 2222 en el host
 - Puerto 80 del contenedor -> 8080 en el host
 
-## Cómo generar el .tar (si se necesita para entrega en Moodle)
+## Cómo generar el .tar (si se necesita para alguna entrega)
 
 ```bash
 docker save -o maquina-vulnerable-f1.tar maquina-vulnerable-f1:latest
