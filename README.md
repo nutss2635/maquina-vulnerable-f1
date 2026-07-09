@@ -102,4 +102,4 @@ maquina-vulnerable-f1/
 
 ## Autores
 
-[Nombre 1] / [Nombre 2] — Universidad del Bío-Bío
+[Benjamín Ibáñez] / [Catalina Muñoz] — Universidad del Bío-Bío
