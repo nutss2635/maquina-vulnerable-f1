@@ -105,5 +105,14 @@ maquina-vulnerable-f1/
 ## Autores
 - **Benjamín Ibáñez** - [GitHub](https://github.com/benjaminibanez2201)
 - **Catalina Muñoz** - [GitHub](https://github.com/nutss2635)
-**Universidad del Bío-Bío**
+  
+---
+
+<p align="center">
+  <img src="docs/escudo_ubb.png" width="90"/>
+  <br/>
+  <sub><strong>UNIVERSIDAD DEL BÍO-BÍO</strong></sub>
+  <br/>
+  <sub>Facultad de Ciencias Empresariales — Departamento de Sistemas de Información</sub>
+</p>
 
