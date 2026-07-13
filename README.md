@@ -109,9 +109,7 @@ maquina-vulnerable-f1/
 ---
 
 <p align="center">
-  <img src="docs/escudo_ubb.png" width="90"/>
-  <br/>
-  <sub><strong>UNIVERSIDAD DEL BÍO-BÍO</strong></sub>
+  <img src="docs/escudo_ubb.png" width="250" style="margin-bottom:-20px"/>
   <br/>
   <sub>Facultad de Ciencias Empresariales — Departamento de Sistemas de Información</sub>
 </p>
