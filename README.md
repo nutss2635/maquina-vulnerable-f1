@@ -103,6 +103,7 @@ maquina-vulnerable-f1/
 - Clave del binario de ingenieria inversa: `MAX1RED33`
 
 ## Autores
-
-[Benjamín Ibáñez] / [Catalina Muñoz] — Universidad del Bío-Bío
+- **Benjamín Ibáñez** - [GitHub](https://github.com/benjaminibanez2201)
+- **Catalina Muñoz** - [GitHub](https://github.com/nutss2635)
+**Universidad del Bío-Bío**
 
